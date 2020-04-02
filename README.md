@@ -1,5 +1,5 @@
 # Boston-Crime-Analysis
-The analysis is done on Apache Spark using Python
+The analysis is done in Apache Spark using Python and SQL
 
 Objective:
 Boston Crime Data Analysis Objective:
